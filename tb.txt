@@ -33,7 +33,7 @@
 {"key":"MV_vod","name":"🎸┃明星MTV(CJ)","type":1,"api":"https://mv.wogg.link/mv/vod","searchable":0,"quickSearch":0,"changeable":0},
 {"key": "drpy_js_酷狗MV","name": "🎸┃酷狗┃MV(JS)","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/酷狗MV.js"},
 {"key": "drpy_js_酷奇MV","name": "🎸┃酷奇┃MV(JS)","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/酷奇MV.js"},
-{"key": "bili_open","name": "🚌┃沙雕┃动画(JS)","type": 3,"api": "https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/bili_open.js","searchable": 0,"changeable": 0,"ext": {"categories": "沙雕动画#沙雕穿越#沙雕","cookie": ""}},
+//{"key": "bili_open","name": "🚌┃沙雕┃动画(JS)","type": 3,"api": "https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/bili_open.js","searchable": 0,"changeable": 0,"ext": {"categories": "沙雕动画#沙雕穿越#沙雕","cookie": ""}},
 {"key": "drpy_js_网易公版影像","name": "🎬┃网易┃公影(JS)","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/网易公版影像.js"},
 {"key": "drpy_js_喜马拉雅","name": "🎧┃喜马┃拉雅(JS)","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/喜马拉雅.js","playerType": "2"},
 {"key":"有声小说js","name":"🎧┃有声┃小说(JS)","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/有声小说吧.js","style":{"type":"rect","ratio":1}},
@@ -69,7 +69,7 @@
 ],
 
 "lives": [
-{"name":"直播IPV4","type":"0","playerType":"2","url":"https://ghproxy.com/https://raw.githubusercontent.com/ihymn/fm/main/tv/zblive.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"直播IPV4","type":"0","playerType":"2","url":"https://ghproxy.com/https://raw.githubusercontent.com/ihymn/fm/main/tv/zblive.txt"},
 {"name":"FY-YanG","type":"0","url":"https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u"},
 {"name":"FY-CQYX-V4","type":"0","url":"https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u"},
 {"name":"XXX","type":"0","url":"https://ghproxy.com/https://raw.githubusercontent.com/ihymn/fm/main/tv/xxx.m3u"}
