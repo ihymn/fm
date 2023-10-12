@@ -40,7 +40,7 @@
 {"key": "drpy_js_相声随身听","name": "🎧┃相声┃合集(JS)","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/相声随身听.js","playerType": "2"},
 {"key": "drpy_js_种子音乐","name": "🎶┃种子┃音乐(JS)","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/种子音乐.js"},
 {"key": "drpy_js_清风DJ","name": "🎶┃清风┃DJ(JS)","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/清风DJ.js","playerType": "2"},
-{"key":"csp_XPath_企鹅体育","name":"🐧┃企鹅┃体育(XP)","type": 3,"api": "csp_XPath","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/json/企鹅直播.json"},
+{"key":"csp_XPath_企鹅体育","name":"🐧┃企鹅┃体育(XP)","type": 3,"api": "csp_XPath","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/ihymn/fm/main/json/企鹅直播.json"},
 {"key":"csp_xp_qiumi","name":"🏀┃JRS┃看球(JS)","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/JRKAN直播.js","style": {"type": "rect","ratio": 1},"searchable": 0,"quickSearch": 0,"changeable": 0},
 {"key":"dr_88看球","name":"🏀┃八八┃看球(JS)","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"style":{"type":"rect","ratio":1},"ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/88看球.js"},
 {"key": "csp_310直播","name": "🏀┃310┃看球(JS)","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/310直播.js","style": {"type": "rect","ratio": 1},"searchable": 0,"quickSearch": 0,"changeable": 0},
@@ -48,7 +48,7 @@
 {"key": "暴風","name": "🛫┃暴风┃影视(CJ)","type": 1,"api": "https://bfzyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"changeable": 1},
 {"key":"非凡","name":"🛫┃非凡┃影视(CJ)","type":"1","api":"http://cj.ffzyapi.com/api.php/provide/vod/","searchable":"1","filterable":"1","changeable":"1","categories": ["动作片", "喜剧片", "科幻片", "恐怖片", "爱情片", "剧情片", "战争片", "记录片", "国产剧", "欧美剧", "香港剧", "韩国剧", "台湾剧", "日本剧", "海外剧", "泰国剧", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "伦理片"]},
 {"key":"量子","name":"🛫┃量子┃影视(CJ)","type":"1","api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":"1","filterable":"1","changeable":"1","categories": ["国产剧","欧美剧","韩国剧","台湾剧","香港剧","日本剧","大陆综艺","动作片","爱情片","喜剧片","科幻片","恐怖片","剧情片","战争片"]},
-{"key":"Bili","name":"🛫┃明星演唱会(SP)","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/biliych.json"},
+{"key":"Bili","name":"🛫┃明星演唱会(SP)","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/ihymn/fm/main/json/biliych.json"},
 {"key":"Star","name":"🛫┃星星┃影视(SP)","type":3,"api":"csp_Star","searchable":1,"changeable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
 {"key":"泥巴","name":"🛫┃泥巴┃影视(SP)","type":"3","api":"csp_NiNi","searchable":"1","filterable":"1","changeable":"1","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
 {"key": "七夜","name": "🅿┃七搜┃(仅搜索)","type": 3,"api": "csp_Dovx","searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
@@ -69,13 +69,13 @@
 ],
 
 "lives": [
-{"name":"直播IPV4","type":"0","playerType":"2","url":"https://agit.ai/ihymn/tvbox/raw/branch/master/tv/zblive.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"直播IPV4","type":"0","playerType":"2","url":"https://ghproxy.com/https://raw.githubusercontent.com/ihymn/fm/main/tv/zblive.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"FY-YanG","type":"0","url":"https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u"},
 {"name":"FY-CQYX-V4","type":"0","url":"https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u"},
-{"name":"XXX","type":"0","url":"https://agit.ai/ihymn/tvbox/raw/branch/master/tv/xxx.m3u"}
+{"name":"XXX","type":"0","url":"https://ghproxy.com/https://raw.githubusercontent.com/ihymn/fm/main/tv/xxx.m3u"}
 ],
 
-"spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;5388d60fb0519fa359339c3252fa5e69",
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/ihymn/fm/main/fty.jar",
 
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 
