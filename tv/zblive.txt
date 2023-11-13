@@ -1,64 +1,64 @@
 央视,#genre#
 CCTV1,https://live.goodiptv.club/api/cqyx.php?id=cctv1HD$重庆有线
-CCTV1,https://live.goodiptv.club/api/yqgd.php?id=cctv1hd$百视通
+CCTV1,https://live.metshop.top/bestv.php?id=cctv1hd8m/8000000$百视通
 
 CCTV2,https://live.goodiptv.club/api/cqyx.php?id=cctv2HD$重庆有线
-CCTV2,https://live.goodiptv.club/api/yqgd.php?id=cctv2hd$百视通
+CCTV2,https://live.metshop.top/bestv.php?id=cctv2hd8m/8000000$百视通
 
 CCTV3,https://live.goodiptv.club/api/cqyx.php?id=cctv3HD$重庆有线
-CCTV3,https://live.goodiptv.club/api/yqgd.php?id=cctv3hd$百视通
+CCTV3,https://live.metshop.top/bestv.php?id=cctv38m/8000000$百视通
 CCTV3,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8$IPV6-4K
 
 CCTV4,https://live.goodiptv.club/api/cqyx.php?id=cctv4HD$重庆有线
-CCTV4,https://live.goodiptv.club/api/yqgd.php?id=cctv4$百视通
+CCTV4,https://live.metshop.top/bestv.php?id=cctv4hd8m/8000000$百视通
 
 CCTV5,https://live.goodiptv.club/api/cqyx.php?id=cctv5HD$重庆有线
-CCTV5,https://live.goodiptv.club/api/yqgd.php?id=cctv5hd$百视通
+CCTV5,https://live.metshop.top/bestv.php?id=cctv58m/8000000$百视通
 CCTV5,http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8$IPV6-4K
 
 CCTV5+,https://live.goodiptv.club/api/cqyx.php?id=cctv5SportHD$重庆有线
-CCTV5+,https://live.goodiptv.club/api/yqgd.php?id=cctv5p$百视通
+CCTV5+,https://live.metshop.top/bestv.php?id=cctv5phd8m/8000000$百视通
 
 CCTV6,https://live.goodiptv.club/api/cqyx.php?id=cctv6HD$重庆有线
-CCTV6,https://live.goodiptv.club/api/yqgd.php?id=cctv6hd$百视通
+CCTV6,https://live.metshop.top/bestv.php?id=cctv6hd8m/8000000$百视通
 CCTV6,http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8$IPV6-4K
 
 CCTV7,https://live.goodiptv.club/api/cqyx.php?id=cctv7HD$重庆有线
-CCTV7,https://live.goodiptv.club/api/yqgd.php?id=cctv7hd$百视通
+CCTV7,https://live.metshop.top/bestv.php?id=cctv7hd8m/8000000$百视通
 
 CCTV8,https://live.goodiptv.club/api/cqyx.php?id=cctv8HD$重庆有线
-CCTV8,https://live.goodiptv.club/api/yqgd.php?id=cctv8hd$百视通
+CCTV8,https://live.metshop.top/bestv.php?id=cctv8hd8m/8000000$百视通
 CCTV8,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8$IPV6-4K
 
 CCTV9,https://live.goodiptv.club/api/cqyx.php?id=cctv9HD$重庆有线
-CCTV9,https://live.goodiptv.club/api/yqgd.php?id=cctv9hd$百视通
+CCTV9,https://live.metshop.top/bestv.php?id=cctv9hd8m/8000000$百视通
 
 CCTV10,https://live.goodiptv.club/api/cqyx.php?id=cctv10HD$重庆有线
-CCTV10,https://live.goodiptv.club/api/yqgd.php?id=cctv10hd$百视通
+CCTV10,https://live.metshop.top/bestv.php?id=cctv10hd8m/8000000$百视通
 
 CCTV11,https://live.goodiptv.club/api/cqyx.php?id=cctv11HD$重庆有线
-CCTV11,https://live.goodiptv.club/api/yqgd.php?id=cctv11$百视通
+CCTV11,https://live.metshop.top/bestv.php?id=cctv11hd8m/8000000$百视通
 
 CCTV12,https://live.goodiptv.club/api/cqyx.php?id=cctv12HD$重庆有线
-CCTV12,https://live.goodiptv.club/api/yqgd.php?id=cctv12hd$百视通
+CCTV12,https://live.metshop.top/bestv.php?id=cctv12hd8m/8000000$百视通
 
 CCTV13,https://live.goodiptv.club/api/cqyx.php?id=CCTVNewsHD$重庆有线
-CCTV13,https://live.goodiptv.club/api/yqgd.php?id=cctv13$百视通
+CCTV13,https://live.metshop.top/bestv.php?id=cctv13xwhd8m/8000000$百视通
 
 CCTV14,https://live.goodiptv.club/api/cqyx.php?id=cctvseHD$重庆有线
-CCTV14,https://live.goodiptv.club/api/yqgd.php?id=cctvsehd$百视通
+CCTV14,https://live.metshop.top/bestv.php?id=cctvsehd8m/8000000$百视通
 
 CCTV15,https://live.goodiptv.club/api/cqyx.php?id=cctv15HD$重庆有线
-CCTV15,https://live.goodiptv.club/api/yqgd.php?id=cctv15hd$百视通
+CCTV15,https://live.metshop.top/bestv.php?id=cctv15hd8m/8000000$百视通
 
 CCTV16,https://live.goodiptv.club/api/cqyx.php?id=cctv16HD$重庆有线
-CCTV16,https://live.goodiptv.club/api/yqgd.php?id=cctv16hd4k/15000000$百视通4K
-CCTV16,https://live.goodiptv.club/api/yqgd.php?id=cctv16hd$百视通
+CCTV16,https://live.metshop.top/bestv.php?id=cctv16hd4k/15000000$百视通4K
+CCTV16,https://live.metshop.top/bestv.php?id=cctv16hd8m/8000000$百视通
 
 CCTV17,https://live.goodiptv.club/api/cqyx.php?id=cctv17HD$重庆有线
-CCTV17,https://live.goodiptv.club/api/yqgd.php?id=cctv17$百视通
+CCTV17,https://live.metshop.top/bestv.php?id=cctv17hd8m/8000000$百视通
 
-CCTV4K,https://live.goodiptv.club/api/yqgd.php?id=cctv4k/15000000$百视通
+CCTV4K,https://live.metshop.top/bestv.php?id=cctv4k/15000000$百视通
 
 
 风云剧场,https://live.goodiptv.club/api/cqyx.php?id=fyjcHD$重庆有线
@@ -67,133 +67,130 @@ CCTV4K,https://live.goodiptv.club/api/yqgd.php?id=cctv4k/15000000$百视通
 怀旧剧场,https://live.goodiptv.club/api/cqyx.php?id=hjjcHD$重庆有线
 第一剧场,https://live.goodiptv.club/api/cqyx.php?id=diyijuchangHD$重庆有线
 兵器科技,https://live.goodiptv.club/api/cqyx.php?id=bqkjHD$重庆有线
-中国天气,https://live.goodiptv.club/api/yqgd.php?id=zgqx$百视通
+中国天气,https://live.metshop.top/bestv.php?id=zgqx/1300000$百视通
 
 卫视,#genre#
 湖南卫视,https://live.goodiptv.club/api/cqyx.php?id=hunanHD$重庆有线
-湖南卫视,https://live.goodiptv.club/api/yqgd.php?id=hunwshd$百视通
+湖南卫视,https://live.metshop.top/bestv.php?id=hunanwshd8m/8000000$百视通
 
 江苏卫视,https://live.goodiptv.club/api/cqyx.php?id=jiangsuHD$重庆有线
-江苏卫视,https://live.goodiptv.club/api/yqgd.php?id=jswshd$百视通
+江苏卫视,https://live.metshop.top/bestv.php?id=jswshd8m/8000000$百视通
 
 浙江卫视,https://live.goodiptv.club/api/cqyx.php?id=zhejiangHD$重庆有线
-浙江卫视,https://live.goodiptv.club/api/yqgd.php?id=zjwshd$百视通
+浙江卫视,https://live.metshop.top/bestv.php?id=zjwshd8m/8000000$百视通
 
 北京卫视,https://live.goodiptv.club/api/cqyx.php?id=beijingHD$重庆有线
-北京卫视,https://live.goodiptv.club/api/yqgd.php?id=bjwshd$百视通
+北京卫视,https://live.metshop.top/bestv.php?id=bjwshd8m/8000000$百视通
 
 东方卫视,https://live.goodiptv.club/api/cqyx.php?id=shanghaiHD$重庆有线
-东方卫视,https://live.goodiptv.club/api/yqgd.php?id=dfwshd$百视通
+东方卫视,https://live.metshop.top/bestv.php?id=dfwshd8m/8000000$百视通
 
 天津卫视,https://live.goodiptv.club/api/cqyx.php?id=tianjinHD$重庆有线
-天津卫视,https://live.goodiptv.club/api/yqgd.php?id=tjwshd$百视通
+天津卫视,https://live.metshop.top/bestv.php?id=tjwshd8m/8000000$百视通
 
 安徽卫视,https://live.goodiptv.club/api/cqyx.php?id=anhuiSD$重庆有线
-安徽卫视,https://live.goodiptv.club/api/yqgd.php?id=ahwshd$百视通
+安徽卫视,https://live.metshop.top/bestv.php?id=ahwshd8m/8000000$百视通
 
 广东卫视,https://live.goodiptv.club/api/cqyx.php?id=guangdongHD$重庆有线
-广东卫视,https://live.goodiptv.club/api/yqgd.php?id=gdws$百视通
+广东卫视,https://live.metshop.top/bestv.php?id=gdwshd8m/8000000$百视通
 
 重庆卫视,https://live.goodiptv.club/api/cqyx.php?id=chongqingHD$重庆有线
-重庆卫视,https://live.goodiptv.club/api/yqgd.php?id=cqwshd$百视通
+重庆卫视,https://live.metshop.top/bestv.php?id=cqws8m/8000000$百视通
 
 广西卫视,https://live.goodiptv.club/api/cqyx.php?id=guangxiHD$重庆有线
-广西卫视,https://live.goodiptv.club/api/yqgd.php?id=gxws$百视通
+广西卫视,https://live.metshop.top/bestv.php?id=gxwshd8m/8000000$百视通
 
 四川卫视,https://live.goodiptv.club/api/cqyx.php?id=sichuanHD$重庆有线
-四川卫视,https://live.goodiptv.club/api/yqgd.php?id=scwshd$百视通
+四川卫视,https://live.metshop.top/bestv.php?id=scwshd/8000000$百视通
 
 辽宁卫视,https://live.goodiptv.club/api/cqyx.php?id=liaoningHD$重庆有线
-辽宁卫视,https://live.goodiptv.club/api/yqgd.php?id=lnwshd$百视通
+辽宁卫视,https://live.metshop.top/bestv.php?id=lnwshd8m/8000000$百视通
 
 黑龙江卫视,https://live.goodiptv.club/api/cqyx.php?id=heilongjiangHD$重庆有线
-黑龙江卫视,https://live.goodiptv.club/api/yqgd.php?id=hljwshd$百视通
+黑龙江卫视,https://live.metshop.top/bestv.php?id=hljwshd8m/8000000$百视通
 
 深圳卫视,https://live.goodiptv.club/api/cqyx.php?id=shenzhenHD$重庆有线
-深圳卫视,https://live.goodiptv.club/api/yqgd.php?id=szwshd$百视通
+深圳卫视,https://live.metshop.top/bestv.php?id=szwshd8m/8000000$百视通
 
 吉林卫视,https://live.goodiptv.club/api/cqyx.php?id=jilinHD$重庆有线
-吉林卫视,https://live.goodiptv.club/api/yqgd.php?id=jlwshd$百视通
+吉林卫视,https://live.metshop.top/bestv.php?id=jlwshd8m/8000000$百视通
 
-山东卫视,https://live.goodiptv.club/api/yqgd.php?id=sdws$百视通
+山东卫视,https://live.metshop.top/bestv.php?id=sdws8m/8000000$百视通
 
 江西卫视,https://live.goodiptv.club/api/cqyx.php?id=jiangxiHD$重庆有线
-江西卫视,https://live.goodiptv.club/api/yqgd.php?id=jxwshd$百视通
+江西卫视,https://live.metshop.top/bestv.php?id=jxws8m/8000000$百视通
 
 东南卫视,https://live.goodiptv.club/api/cqyx.php?id=dongnanHD$重庆有线
-东南卫视,https://live.goodiptv.club/api/yqgd.php?id=dnws$百视通
+东南卫视,https://live.metshop.top/bestv.php?id=dnwshd8m/8000000$百视通
 
 海南卫视,https://live.goodiptv.club/api/cqyx.php?id=hainanSD$重庆有线
-海南卫视,https://live.goodiptv.club/api/yqgd.php?id=hinws$百视通
+海南卫视,https://live.metshop.top/bestv.php?id=hainanwshd8m/8000000$百视通
 
 河南卫视,https://live.goodiptv.club/api/cqyx.php?id=henanHD$重庆有线
-河南卫视,https://live.goodiptv.club/api/yqgd.php?id=hnwshd$百视通
+河南卫视,https://live.metshop.top/bestv.php?id=hnwshd8m/8000000$百视通
 
 河北卫视,https://live.goodiptv.club/api/cqyx.php?id=hebeiSD$重庆有线
-河北卫视,https://live.goodiptv.club/api/yqgd.php?id=hbwshd$百视通
+河北卫视,https://live.metshop.top/bestv.php?id=hbwshd8m/8000000$百视通
 
 云南卫视,https://live.goodiptv.club/api/cqyx.php?id=yunnanSD$重庆有线
-云南卫视,https://live.goodiptv.club/api/yqgd.php?id=ynws$百视通
+云南卫视,https://live.metshop.top/bestv.php?id=ynwshd8m/8000000$百视通
 
 贵州卫视,https://live.goodiptv.club/api/cqyx.php?id=guizhouHD$重庆有线
-贵州卫视,https://live.goodiptv.club/api/yqgd.php?id=gzws$百视通
+贵州卫视,https://live.metshop.top/bestv.php?id=gzwshd8m/8000000$百视通
 
-甘肃卫视,https://live.goodiptv.club/api/yqgd.php?id=gsws$百视通
+甘肃卫视,https://live.metshop.top/bestv.php?id=gswshd8m/8000000$百视通
 
 宁夏卫视,https://live.goodiptv.club/api/cqyx.php?id=ningxia$重庆有线
-宁夏卫视,https://live.goodiptv.club/api/yqgd.php?id=nxws$百视通
+宁夏卫视,https://live.metshop.top/bestv.php?id=nxws/1300000$百视通
 
 青海卫视,https://live.goodiptv.club/api/cqyx.php?id=qinghaiSD$重庆有线
-青海卫视,https://live.goodiptv.club/api/yqgd.php?id=qhws$百视通
+青海卫视,https://live.metshop.top/bestv.php?id=qhws/1300000$百视通
 
 湖北卫视,https://live.goodiptv.club/api/cqyx.php?id=hubeiSD$重庆有线
-湖北卫视,https://live.goodiptv.club/api/yqgd.php?id=hubeiws$百视通
+湖北卫视,https://live.metshop.top/bestv.php?id=hubeiws8m/8000000$百视通
 
-陕西卫视,https://live.goodiptv.club/api/yqgd.php?id=sxws$百视通
+陕西卫视,https://live.metshop.top/bestv.php?id=sxws/1300000$百视通
 
 山西卫视,https://live.goodiptv.club/api/cqyx.php?id=shanxiSD$重庆有线
-山西卫视,https://live.goodiptv.club/api/yqgd.php?id=shanxiws$百视通
+山西卫视,https://live.metshop.top/bestv.php?id=shanxiws/1300000$百视通
 
-厦门卫视,https://live.goodiptv.club/api/yqgd.php?id=xmws$百视通
+厦门卫视,https://live.metshop.top/bestv.php?id=xmws/1300000$百视通
 
-内蒙古卫视,https://live.goodiptv.club/api/yqgd.php?id=nmgws$百视通
+内蒙古卫视,https://live.metshop.top/bestv.php?id=nmgws/1300000$百视通
 
 西藏卫视,https://live.goodiptv.club/api/cqyx.php?id=xizangSD$重庆有线
-西藏卫视,https://live.goodiptv.club/api/yqgd.php?id=xzws$百视通
+西藏卫视,https://live.metshop.top/bestv.php?id=xzws/2500000$百视通
 
 兵团卫视,https://live.goodiptv.club/api/cqyx.php?id=bingtuanSD$重庆有线
-兵团卫视,https://live.goodiptv.club/api/yqgd.php?id=btws$百视通
+兵团卫视,https://live.metshop.top/bestv.php?id=btws/1300000$百视通
 
 新疆卫视,https://live.goodiptv.club/api/cqyx.php?id=xinjiangSD$重庆有线
-新疆卫视,https://live.goodiptv.club/api/yqgd.php?id=xjws$百视通
+新疆卫视,https://live.metshop.top/bestv.php?id=xjws/1300000$百视通
 
 三沙卫视,https://live.goodiptv.club/api/cqyx.php?id=sanshaSD$重庆有线
 
 体育,#genre# 
-五星体育,https://live.goodiptv.club/api/yqgd.php?id=wxtyhd$百视通
-劲爆体育,https://live.goodiptv.club/api/yqgd.php?id=jbtyhd$百视通
-魅力足球,https://live.goodiptv.club/api/yqgd.php?id=mlyyhd$百视通
-新视觉,https://live.goodiptv.club/api/yqgd.php?id=xsjhd$百视通
+五星体育,https://live.metshop.top/bestv.php?id=wxtyhd8m/8000000$百视通
+劲爆体育,https://live.metshop.top/bestv.php?id=jbtyhd8m/8000000$百视通
+魅力足球,https://live.metshop.top/bestv.php?id=mlyyhd/4000000$百视通
+新视觉,https://live.metshop.top/bestv.php?id=xsjhd8m/8000000$百视通
 Fight Sport,https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 
 电影,#genre#
 CHC动作电影,https://live.goodiptv.club/api/cqyx.php?id=chcdzdyHD$重庆有线
-CHC动作电影,https://live.goodiptv.club/api/yqgd.php?id=chcdzdy$百视通
 CHC家庭影院,https://live.goodiptv.club/api/cqyx.php?id=chcjtyyHD$重庆有线
-CHC家庭影院,https://live.goodiptv.club/api/yqgd.php?id=chcjtyy$百视通
 CHC高清电影,https://live.goodiptv.club/api/cqyx.php?id=chcgqdyHD$重庆有线
-CHC高清电影,https://live.goodiptv.club/api/yqgd.php?id=chcgqdy$百视通
-华语影院,https://live.goodiptv.club/api/yqgd.php?id=hyyy$百视通
-星光影院,https://live.goodiptv.club/api/yqgd.php?id=xgyy$百视通
-全球大片,https://live.goodiptv.club/api/yqgd.php?id=qqdp$百视通
+华语影院,https://live.metshop.top/bestv.php?id=hyyy8m/8000000
+星光影院,https://live.metshop.top/bestv.php?id=xgyy8m/8000000
+全球大片,https://live.metshop.top/bestv.php?id=qqdp8m/8000000
 
 人文,#genre#
-乐游纪实,https://live.goodiptv.club/api/yqgd.php?id=lyhd
-纪实人文,https://live.goodiptv.club/api/yqgd.php?id=jspdhd
-金鹰纪实,https://live.goodiptv.club/api/yqgd.php?id=jyjs
-纪实科教,https://live.goodiptv.club/api/yqgd.php?id=dajs
-第一财经,https://live.goodiptv.club/api/yqgd.php?id=dycjhd
-东方财经,https://live.goodiptv.club/api/yqgd.php?id=dfcjhd
+乐游纪实,https://live.metshop.top/bestv.php?id=qjshd8m/8000000
+纪实人文,https://live.metshop.top/bestv.php?id=jspdhd/4000000
+金鹰纪实,https://live.metshop.top/bestv.php?id=jyjs8m/8000000
+纪实科教,https://live.metshop.top/bestv.php?id=dajs8m/8000000
+第一财经,https://live.metshop.top/bestv.php?id=dycjhd8m/8000000
+东方财经,https://live.metshop.top/bestv.php?id=dfcjhd8m/8000000
 Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 Clarity,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
@@ -277,11 +274,11 @@ ALJAZEERA,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 ALJAZEERA,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
 4K,#genre#
-欢笑剧场4K,https://live.goodiptv.club/api/yqgd.php?id=hxjc4k/15000000
-CCTV4K,https://live.goodiptv.club/api/yqgd.php?id=cctv4k/15000000
+欢笑剧场4K,https://live.metshop.top/bestv.php?id=hxjc4k/15000000
+CCTV4K,https://live.metshop.top/bestv.php?id=cctv4k/15000000
 CCTV4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 CCTV4K,http://lu1.cc/itv/php/cctv4k.php
-CCTV16-4K,https://live.goodiptv.club/api/yqgd.php?id=cctv16hd4k/15000000
+CCTV16-4K,https://live.metshop.top/bestv.php?id=cctv16hd4k/15000000
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8
 Loupe,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
