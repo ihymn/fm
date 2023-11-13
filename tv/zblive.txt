@@ -71,7 +71,7 @@ CCTV4K,https://live.goodiptv.club/api/yqgd.php?id=cctv4k/15000000$百视通
 
 卫视,#genre#
 湖南卫视,https://live.goodiptv.club/api/cqyx.php?id=hunanHD$重庆有线
-湖南卫视,https://live.goodiptv.club/api/yqgd.php?id=hunanwshd$百视通
+湖南卫视,https://live.goodiptv.club/api/yqgd.php?id=hunwshd$百视通
 
 江苏卫视,https://live.goodiptv.club/api/cqyx.php?id=jiangsuHD$重庆有线
 江苏卫视,https://live.goodiptv.club/api/yqgd.php?id=jswshd$百视通
@@ -92,16 +92,16 @@ CCTV4K,https://live.goodiptv.club/api/yqgd.php?id=cctv4k/15000000$百视通
 安徽卫视,https://live.goodiptv.club/api/yqgd.php?id=ahwshd$百视通
 
 广东卫视,https://live.goodiptv.club/api/cqyx.php?id=guangdongHD$重庆有线
-广东卫视,https://live.goodiptv.club/api/yqgd.php?id=gdwshd$百视通
+广东卫视,https://live.goodiptv.club/api/yqgd.php?id=gdws$百视通
 
 重庆卫视,https://live.goodiptv.club/api/cqyx.php?id=chongqingHD$重庆有线
-重庆卫视,https://live.goodiptv.club/api/yqgd.php?id=cqws$百视通
+重庆卫视,https://live.goodiptv.club/api/yqgd.php?id=cqwshd$百视通
 
 广西卫视,https://live.goodiptv.club/api/cqyx.php?id=guangxiHD$重庆有线
-广西卫视,https://live.goodiptv.club/api/yqgd.php?id=gxwshd$百视通
+广西卫视,https://live.goodiptv.club/api/yqgd.php?id=gxws$百视通
 
 四川卫视,https://live.goodiptv.club/api/cqyx.php?id=sichuanHD$重庆有线
-四川卫视,https://live.goodiptv.club/api/yqgd.php?id=scwshd/8000000$百视通
+四川卫视,https://live.goodiptv.club/api/yqgd.php?id=scwshd$百视通
 
 辽宁卫视,https://live.goodiptv.club/api/cqyx.php?id=liaoningHD$重庆有线
 辽宁卫视,https://live.goodiptv.club/api/yqgd.php?id=lnwshd$百视通
@@ -118,13 +118,13 @@ CCTV4K,https://live.goodiptv.club/api/yqgd.php?id=cctv4k/15000000$百视通
 山东卫视,https://live.goodiptv.club/api/yqgd.php?id=sdws$百视通
 
 江西卫视,https://live.goodiptv.club/api/cqyx.php?id=jiangxiHD$重庆有线
-江西卫视,https://live.goodiptv.club/api/yqgd.php?id=jxws$百视通
+江西卫视,https://live.goodiptv.club/api/yqgd.php?id=jxwshd$百视通
 
 东南卫视,https://live.goodiptv.club/api/cqyx.php?id=dongnanHD$重庆有线
-东南卫视,https://live.goodiptv.club/api/yqgd.php?id=dnwshd$百视通
+东南卫视,https://live.goodiptv.club/api/yqgd.php?id=dnws$百视通
 
 海南卫视,https://live.goodiptv.club/api/cqyx.php?id=hainanSD$重庆有线
-海南卫视,https://live.goodiptv.club/api/yqgd.php?id=hainanwshd$百视通
+海南卫视,https://live.goodiptv.club/api/yqgd.php?id=hinws$百视通
 
 河南卫视,https://live.goodiptv.club/api/cqyx.php?id=henanHD$重庆有线
 河南卫视,https://live.goodiptv.club/api/yqgd.php?id=hnwshd$百视通
@@ -133,12 +133,12 @@ CCTV4K,https://live.goodiptv.club/api/yqgd.php?id=cctv4k/15000000$百视通
 河北卫视,https://live.goodiptv.club/api/yqgd.php?id=hbwshd$百视通
 
 云南卫视,https://live.goodiptv.club/api/cqyx.php?id=yunnanSD$重庆有线
-云南卫视,https://live.goodiptv.club/api/yqgd.php?id=ynwshd$百视通
+云南卫视,https://live.goodiptv.club/api/yqgd.php?id=ynws$百视通
 
 贵州卫视,https://live.goodiptv.club/api/cqyx.php?id=guizhouHD$重庆有线
-贵州卫视,https://live.goodiptv.club/api/yqgd.php?id=gzwshd$百视通
+贵州卫视,https://live.goodiptv.club/api/yqgd.php?id=gzws$百视通
 
-甘肃卫视,https://live.goodiptv.club/api/yqgd.php?id=gswshd$百视通
+甘肃卫视,https://live.goodiptv.club/api/yqgd.php?id=gsws$百视通
 
 宁夏卫视,https://live.goodiptv.club/api/cqyx.php?id=ningxia$重庆有线
 宁夏卫视,https://live.goodiptv.club/api/yqgd.php?id=nxws$百视通
@@ -159,7 +159,7 @@ CCTV4K,https://live.goodiptv.club/api/yqgd.php?id=cctv4k/15000000$百视通
 内蒙古卫视,https://live.goodiptv.club/api/yqgd.php?id=nmgws$百视通
 
 西藏卫视,https://live.goodiptv.club/api/cqyx.php?id=xizangSD$重庆有线
-西藏卫视,https://live.goodiptv.club/api/yqgd.php?id=xzws/2500000$百视通
+西藏卫视,https://live.goodiptv.club/api/yqgd.php?id=xzws$百视通
 
 兵团卫视,https://live.goodiptv.club/api/cqyx.php?id=bingtuanSD$重庆有线
 兵团卫视,https://live.goodiptv.club/api/yqgd.php?id=btws$百视通
@@ -188,8 +188,8 @@ CHC高清电影,https://live.goodiptv.club/api/yqgd.php?id=chcgqdy$百视通
 全球大片,https://live.goodiptv.club/api/yqgd.php?id=qqdp$百视通
 
 人文,#genre#
-乐游纪实,https://live.goodiptv.club/api/yqgd.php?id=qjshd
-纪实人文,https://live.goodiptv.club/api/yqgd.php?id=jspdhd/4000000
+乐游纪实,https://live.goodiptv.club/api/yqgd.php?id=lyhd
+纪实人文,https://live.goodiptv.club/api/yqgd.php?id=jspdhd
 金鹰纪实,https://live.goodiptv.club/api/yqgd.php?id=jyjs
 纪实科教,https://live.goodiptv.club/api/yqgd.php?id=dajs
 第一财经,https://live.goodiptv.club/api/yqgd.php?id=dycjhd
